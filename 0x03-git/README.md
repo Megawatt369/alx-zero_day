@@ -1,1 +1,1 @@
-added a new directory
+new second readme updated

@@ -1,1 +1,5 @@
+< update_script
 git pull
+
+mkdir up_to_date
+> main
